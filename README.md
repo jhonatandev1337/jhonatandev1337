@@ -1,16 +1,16 @@
-### Hi there 👋
+# **Opa, meu nome é Jhonatan**
 
-<!--
-**jhonatandev1337/jhonatandev1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem é o jhonatan?
 
-Here are some ideas to get you started:
+### **Programador no Google**
+### **Veja meu trabalho aqui: youtube.com/devaprender**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Disponível para trabalho
+* **Baixe meu currículo [aqui](www.link_para_seu_curriculo.com)**
+* **Contato: email@contato.com**
+* **Telefone: (48)99885-4852**
+
+# Principais projetos
+* [Nome do projeto 1](www.github.com/perfil/projeto1)
+* [Nome do projeto 2](www.github.com/perfil/projeto2)
+* [Nome do projeto 3](www.github.com/perfil/projeto3)
